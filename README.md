@@ -2,7 +2,7 @@
 
 This is a colection of every hat from Duck Game workshop on Steam.  
 It's an early work in progress and I will work on it when I feel like it.  
-This is also my first time working with python and php so do tell me if you see something wrong.  
+This is also my first time working with python and svelte so do tell me if you see something wrong.  
 
 ## Plans
 
