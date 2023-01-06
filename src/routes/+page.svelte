@@ -53,7 +53,7 @@
     <p>Site by <a href="https://github.com/klof44"><img class="avatar" src="/avatar.png" alt="klof44's github"><b>klof44</b></a></p>
     <p>Discord: <b>klof44#6612</b></p>
     <p>Email: <b>klof4four@gmail.com</b></p>
-    <a class="footer-left-first github" href="https://github.com/klof44/HatDatabase"><img src="/github.svg" width="60" alt="github"></a>
+    <a class="footer-left-first github" href="https://github.com/klof44/Hat-Database"><img src="/github.svg" width="60" alt="github"></a>
 </footer>
 <style>
     .hats-list {
