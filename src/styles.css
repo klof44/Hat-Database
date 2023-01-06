@@ -1,0 +1,33 @@
+:root {
+    --background-primary: rgb(20, 60, 30);
+    --background-header: rgb(40, 120, 60);
+    --footer: rgb(10, 30, 15);
+    --button-primary: rgb(70, 70, 70);
+    --button-hover: rgb(150, 150, 150);
+    background-color: var(--background-primary);
+    font-family: "Consolas";
+    color: white;
+    text-align: center;
+}
+.header {
+    background-color: var(--background-header);
+    font-size: 15px;
+    text-align: center;
+    padding: 1px;
+    vertical-align: middle;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    border-bottom: 3px solid black;
+}
+body {
+    margin: 0;
+    text-align: center;
+    padding: 0;
+}
+.content {
+    font-size: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
